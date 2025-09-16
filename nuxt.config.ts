@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   extends: [
-    "../layer-for-project"
+    "github:MatteoGabriele/layer-for-project"
   ],
 
   typescript: {
